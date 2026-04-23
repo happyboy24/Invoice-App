@@ -1,0 +1,236 @@
+[
+  {
+    "id": "RT3080",
+    "createdAt": "2026-04-20",
+    "paymentDue": "2026-05-20",
+    "description": "Website Design",
+    "paymentTerms": 30,
+    "clientName": "Jensen Huang",
+    "clientEmail": "jensen@example.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "84 Church Way",
+      "city": "Bradford",
+      "postCode": "BD1 9PB",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Landing Page Design",
+        "quantity": 1,
+        "price": 1800,
+        "total": 1800
+      },
+      {
+        "id": "2",
+        "name": "Mobile Responsiveness",
+        "quantity": 1,
+        "price": 400,
+        "total": 400
+      }
+    ],
+    "total": 2200
+  },
+  {
+    "id": "XM9141",
+    "createdAt": "2026-03-12",
+    "paymentDue": "2026-04-11",
+    "description": "Mobile App UI",
+    "paymentTerms": 30,
+    "clientName": "Sarah Johnson",
+    "clientEmail": "sarah@example.com",
+    "status": "paid",
+    "senderAddress": {
+      "street": "72 Kings Road",
+      "city": "Manchester",
+      "postCode": "M2 5DB",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "18 Market Street",
+      "city": "Leeds",
+      "postCode": "LS1 4AB",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Mobile App Screens",
+        "quantity": 5,
+        "price": 350,
+        "total": 1750
+      },
+      {
+        "id": "2",
+        "name": "Prototype",
+        "quantity": 1,
+        "price": 600,
+        "total": 600
+      }
+    ],
+    "total": 2350
+  },
+  {
+    "id": "FV2353",
+    "createdAt": "2026-02-05",
+    "paymentDue": "2026-02-19",
+    "description": "Brand Identity",
+    "paymentTerms": 14,
+    "clientName": "Michael Smith",
+    "clientEmail": "michael@example.com",
+    "status": "draft",
+    "senderAddress": {
+      "street": "44 Baker Street",
+      "city": "London",
+      "postCode": "NW1 6XE",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "91 Green Lane",
+      "city": "Liverpool",
+      "postCode": "L2 7PQ",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Logo Design",
+        "quantity": 1,
+        "price": 800,
+        "total": 800
+      },
+      {
+        "id": "2",
+        "name": "Brand Guidelines",
+        "quantity": 1,
+        "price": 450,
+        "total": 450
+      }
+    ],
+    "total": 1250
+  },
+  {
+    "id": "AA5602",
+    "createdAt": "2026-01-18",
+    "paymentDue": "2026-01-25",
+    "description": "SEO Optimization",
+    "paymentTerms": 7,
+    "clientName": "Emily Brown",
+    "clientEmail": "emily@example.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "12 Victoria Street",
+      "city": "Birmingham",
+      "postCode": "B1 1AA",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "25 Albert Road",
+      "city": "Sheffield",
+      "postCode": "S1 3FG",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "SEO Audit",
+        "quantity": 1,
+        "price": 500,
+        "total": 500
+      },
+      {
+        "id": "2",
+        "name": "Keyword Research",
+        "quantity": 1,
+        "price": 350,
+        "total": 350
+      }
+    ],
+    "total": 850
+  },
+  {
+    "id": "TY8890",
+    "createdAt": "2025-12-10",
+    "paymentDue": "2026-01-09",
+    "description": "E-commerce Development",
+    "paymentTerms": 30,
+    "clientName": "Daniel Wilson",
+    "clientEmail": "daniel@example.com",
+    "status": "paid",
+    "senderAddress": {
+      "street": "88 Oxford Street",
+      "city": "London",
+      "postCode": "W1D 2HG",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "14 River Way",
+      "city": "Bristol",
+      "postCode": "BS1 5TR",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Frontend Development",
+        "quantity": 1,
+        "price": 3200,
+        "total": 3200
+      },
+      {
+        "id": "2",
+        "name": "Backend Integration",
+        "quantity": 1,
+        "price": 1800,
+        "total": 1800
+      }
+    ],
+    "total": 5000
+  },
+  {
+    "id": "BN4401",
+    "createdAt": "2026-04-02",
+    "paymentDue": "2026-04-16",
+    "description": "Social Media Graphics",
+    "paymentTerms": 14,
+    "clientName": "Olivia Taylor",
+    "clientEmail": "olivia@example.com",
+    "status": "draft",
+    "senderAddress": {
+      "street": "31 George Street",
+      "city": "Edinburgh",
+      "postCode": "EH2 2PB",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "9 Rose Avenue",
+      "city": "Glasgow",
+      "postCode": "G1 2FF",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "id": "1",
+        "name": "Instagram Templates",
+        "quantity": 10,
+        "price": 40,
+        "total": 400
+      },
+      {
+        "id": "2",
+        "name": "Story Designs",
+        "quantity": 5,
+        "price": 30,
+        "total": 150
+      }
+    ],
+    "total": 550
+  }
+]
