@@ -132,13 +132,13 @@ hng-stage-2-invoice-app
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iibrahimx/hng-stage-2-invoice-app.git
+git clone https://github.com/happyboy24/Invoice-App.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd hng-stage-2-invoice-app
+cd Invoice App
 ```
 
 3. Install dependencies:
@@ -211,9 +211,5 @@ The project is deployed on Vercel.
 
 Any future push to the main branch will automatically trigger a new deployment on Vercel, so you do not need to manually redeploy each time.
 
----
 
-## Author
-
-Ibrahim Ibrahim.
 # Invoice-App
