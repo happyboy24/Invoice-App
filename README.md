@@ -207,9 +207,10 @@ Layouts, forms, filters and invoice cards adapt based on screen size.
 
 ## Deployment
 
-The project is deployed on Vercel.
+The project is deployed on Netlify.
 
 Any future push to the main branch will automatically trigger a new deployment on Vercel, so you do not need to manually redeploy each time.
+
 
 
 # Invoice-App
