@@ -68,7 +68,7 @@ Form validation was included to make invalid fields show visual feedback and pre
 ## Project Structure
 
 ```txt
-hng-stage-2-invoice-app
+invoice-app
 ├── src/
 │   ├── assets/
 │   │   └── illustration-empty.png
